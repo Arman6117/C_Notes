@@ -46,7 +46,7 @@ int main()
 
 
 
-/******************************************TYPES OF DATA TYPES*********************************************/
+
 /*
   *** There are 3 typs of data are available in C and C++ ***
     
